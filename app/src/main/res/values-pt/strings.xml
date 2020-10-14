@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Filmes</string>
+
+    <!-- MainActivity -->
+    <string name="main_activity_title">Filme</string>
+    <string name="main_activity_release_date">2020</string>
+    <string name="main_activity_direction">Pedro Barbosa</string>
+
+    <!-- NewMovieActivity -->
+    <string name="new_movie_activity">Novo Filme</string>
+    <string name="new_movie_activity_register_movie">Cadastre um filme de sua preferência</string>
+    <string name="new_movie_activity_title">Título</string>
+    <string name="new_movie_activity_release_date">Data de lançamento</string>
+    <string name="new_movie_activity_direction">Direção</string>
+    <string name="new_movie_activity_toast">Preencha os dados do filme!</string>
+
+    <!-- EditMovieActivity -->
+    <string name="edit_movie_activity">Editar Filme</string>
+    <string name="edit_movie_activity_edit_movie">Editar os dados do filme</string>
+
+    <!-- Menu NewMovieActivity -->
+    <string name="action_save">Salvar</string>
+
+    <!-- Menu MainActivity -->
+    <string name="action_ordination_az">A-Z</string>
+    <string name="action_ordination_most_recent">Mais recentes</string>
+
+</resources>

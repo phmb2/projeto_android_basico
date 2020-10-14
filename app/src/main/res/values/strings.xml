@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- MainActivity -->
+    <string name="main_activity_title">Movie</string>
+    <string name="main_activity_release_date">2020</string>
+    <string name="main_activity_direction">Pedro Barbosa</string>
+
+    <!-- NewMovieActivity -->
+    <string name="new_movie_activity">New Movie</string>
+    <string name="new_movie_activity_register_movie">Register a movie of your choice</string>
+    <string name="new_movie_activity_title">Title</string>
+    <string name="new_movie_activity_release_date">Release date</string>
+    <string name="new_movie_activity_direction">Direction</string>
+    <string name="new_movie_activity_toast">Fill in the movie data!</string>
+
+    <!-- EditMovieActivity -->
+    <string name="edit_movie_activity">Edit Movie</string>
+    <string name="edit_movie_activity_edit_movie">Edit the movie data</string>
+
+    <!-- Menu NewMovieActivity -->
+    <string name="action_save">Save</string>
+
+    <!-- Menu MainActivity -->
+    <string name="action_ordination_az">A-Z</string>
+    <string name="action_ordination_most_recent">Most recent</string>
+
+</resources>

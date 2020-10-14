@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="posters">
+        <item>@drawable/movie1</item>
+        <item>@drawable/movie2</item>
+        <item>@drawable/movie3</item>
+        <item>@drawable/movie4</item>
+        <item>@drawable/movie5</item>
+        <item>@drawable/movie6</item>
+        <item>@drawable/movie7</item>
+        <item>@drawable/movie8</item>
+    </array>
+</resources>

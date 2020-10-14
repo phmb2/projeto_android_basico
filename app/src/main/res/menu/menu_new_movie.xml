@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.phmb.projeto_android_basico.ui.NewMovieActivity">
+    <item
+        android:id="@+id/menu_action_save"
+        android:orderInCategory="100"
+        android:title="@string/action_save"
+        app:showAsAction="always|withText" />
+</menu>
