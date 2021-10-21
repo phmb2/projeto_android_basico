@@ -10,7 +10,7 @@ class MovieUnitTest {
     @Test
     fun `When adding movie the list size should increase by one`() {
         val oldSize =  moviesArrayList.size
-        moviesArrayList.add(Movie("Movie 1", "14/07/2010", "Fulano", 1))
+        moviesArrayList.add(Movie("Movie 200", "14/07/2010", "Fulano", 1))
         val newSize = moviesArrayList.size
         assert(newSize == (oldSize+1))
     }
