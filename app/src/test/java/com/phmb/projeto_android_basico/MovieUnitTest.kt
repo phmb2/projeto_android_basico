@@ -12,7 +12,7 @@ class MovieUnitTest {
         val oldSize =  moviesArrayList.size
         moviesArrayList.add(Movie("Movie 1", "14/07/2010", "Fulano", 1))
         val newSize = moviesArrayList.size
-        assert(newSize == (oldSize+2))
+        assert(newSize == (oldSize+1))
     }
 
     @Test
