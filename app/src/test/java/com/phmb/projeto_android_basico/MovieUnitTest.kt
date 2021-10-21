@@ -8,7 +8,7 @@ class MovieUnitTest {
     private var moviesArrayList = arrayListOf<Movie>()
 
     @Test
-    fun `When adding a movie the list size should increase by two`() {
+    fun `When adding two movies the list size should increase by two`() {
         val oldSize =  moviesArrayList.size
         moviesArrayList.add(Movie("Movie 1", "14/07/2010", "Fulano", 1))
         moviesArrayList.add(Movie("Movie 2", "10/10/2015", "Sicrano", 2))
